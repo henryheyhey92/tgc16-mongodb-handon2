@@ -1,0 +1,23 @@
+[
+	{
+		"appointment_id": 353627,
+		"dentisit_id": 1234,
+		"patient_id" : 1233,
+		"treatment_id": 663738,
+		"clinic_id": 12367,
+		"date": "22022022",
+		"Time": 1600,
+		"Doctor_comments": "patient eat too much noodles"
+
+	},
+	{
+		"appointment_id": 353627,
+		"dentist_id": 1237,
+		"patient_id" : 1233,
+		"treatment_id": 663738,
+		"clinic_id": 12389,
+		"date": "22022022",
+		"Time": 1600,
+		"Doctor_comments": "patient eat too much chocolate"
+	}
+]

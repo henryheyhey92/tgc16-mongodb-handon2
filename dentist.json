@@ -1,0 +1,12 @@
+[
+	{
+	"dentist_id": 1234,
+	"dentist_name ": "Alan",
+	"speciality": "tooth cleaning",
+	},
+	{
+	"dentist_id": 1237,
+	"dentist_name ": "John",
+	"speciality": "tooth cleaning",
+	}
+]

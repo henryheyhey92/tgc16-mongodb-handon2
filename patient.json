@@ -1,0 +1,31 @@
+[
+	{
+		"patient_id": 1233,
+		"patient_name": "henryLai",
+		"DOB": "02101993",
+		"phone_number": 99998888,
+		"Address": {
+			"street_name": "cck",
+			"block": 457,
+			"unit_num": "13-0118",
+			"postal_code": 680118
+		},
+		"Email": "henrylai93@gmail.com",	
+
+	},
+
+	{
+		"patient_id": 1238,
+		"patient_name": "henryLim",
+		"DOB": "02102021",
+		"phone_number": 99998800,
+		"Address": {
+			"street_name": "cck",
+			"block": 409,
+			"unit_num": "10-0198",
+			"postal_code": 680190
+		},
+		"Email": "henrylim93@gmail.com",	
+
+	}
+]
